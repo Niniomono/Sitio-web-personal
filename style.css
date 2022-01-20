@@ -1,0 +1,16 @@
+body {
+    background-color:seagreen;
+    text-align:center;
+}
+#game {
+   background-color:gold;
+}
+.line {
+    height:6px;
+    background-color:black;
+    width:70px;
+    margin:8px auto;
+}
+#app {
+    background-color:lightskyblue;
+}
